@@ -1,4 +1,4 @@
-`This is one of my first codes and just for my learning.`  
+`This is one of my first codes in and just for my learning!`  
 
 **Create Fibonacci series in 2 ways**  
 
